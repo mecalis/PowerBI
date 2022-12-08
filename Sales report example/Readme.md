@@ -5,4 +5,5 @@ Tutorial of Lean Excel Solution youtube chanel ( [Sales Dashboard in Power BI | 
 Benefits of this tutorial, and what I have learned from it:
 - Handling of Date's
 - Using slicers and filters (dropdown's, top N filter), interactions between filters and visuals
+- Practice PowerQuery
 
