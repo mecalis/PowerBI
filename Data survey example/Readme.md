@@ -1,6 +1,6 @@
 ## Data Survey Example in PowerBI
 
-Source: Tutorial of Alex, the analyst on youtube ( [Full Power BI Guided Project | Microsoft Power BI for Beginners](https://www.youtube.com/watch?v=pixlHHe_lNQ) )
+Source: Tutorial of Alex, the analyst from youtube ( [Full Power BI Guided Project | Microsoft Power BI for Beginners](https://www.youtube.com/watch?v=pixlHHe_lNQ) )
 
 What I have learned from this tutorial:
 - I have created my first complet mini project in PowerBI
