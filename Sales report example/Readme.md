@@ -8,3 +8,4 @@ Benefits of this tutorial, and what I have learned from it:
 - Practice PowerQuery
 
 This can be automated by PowerAutomate:
+![Power Automate the Sales riport](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
