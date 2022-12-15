@@ -7,3 +7,4 @@ Benefits of this tutorial, and what I have learned from it:
 - Using slicers and filters (dropdown's, top N filter), interactions between filters and visuals
 - Practice PowerQuery
 
+This can be automated by PowerAutomate:
