@@ -7,3 +7,6 @@ What I have learned from this tutorial:
 - I learned about PowerQuery ( splitting columns, data types, replacing text, making custom columns)
 - Basics of visuals
 - I got to know the basics of visual (types, formatting, etc.)
+
+![](data_survey.png "Data survey example")
+
