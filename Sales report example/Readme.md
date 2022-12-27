@@ -7,6 +7,8 @@ Benefits of this tutorial, and what I have learned from it:
 - Using slicers and filters (dropdown's, top N filter), interactions between filters and visuals
 - Practice PowerQuery
 
+![Sales riport](powerautomate_sales_riport.png "Sales report")
+
 This can be automated by PowerAutomate:
 
 ![Power Automate the Sales riport](powerautomate_sales_riport.png "Automated report")
