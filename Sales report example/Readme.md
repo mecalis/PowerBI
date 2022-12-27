@@ -7,7 +7,7 @@ Benefits of this tutorial, and what I have learned from it:
 - Using slicers and filters (dropdown's, top N filter), interactions between filters and visuals
 - Practice PowerQuery
 
-![Sales riport]("sales report example.png" "sales report")
+![Power Automate the Sales riport](sales_report_example.png "Automated report")
 
 This can be automated by PowerAutomate:
 
